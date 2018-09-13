@@ -1,0 +1,2 @@
+Smith hourly 40 12.50 0.00 
+Jones salaried 60 0.00 65000.00
